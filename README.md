@@ -27,6 +27,8 @@ Querying a database with [unification](https://docs.datomic.com/query/query-exec
 
 ## Level 5
 
+(Warm up)
+
 ## Level 6
 
 This level shows how to use the `pull` syntax for getting the whole reference for a specific `:where` clause.
